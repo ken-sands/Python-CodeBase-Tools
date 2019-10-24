@@ -1,3 +1,6 @@
+Just created this fork with the intention of making at least some of the really nice fopro like functions available to php as we already have php programmers for web projects moving our fox bits to php makes more sense than still having a mix of languages.
+Depends on how busy I am so changes here may come about slowly.
+
 # Python-CodeBase-Tools
 Python binding for the CodeBase-for-DBF data table engine, plus tools for spreadsheet access and other functions
 # Software Description
